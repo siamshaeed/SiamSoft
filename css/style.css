@@ -1,0 +1,121 @@
+
+.green{
+    color: #009F95;
+}
+
+/*for about image*/
+.img-siz{
+    width: 100%;
+    height: 250px;
+}
+
+/*Slaider css*/
+.carousel-caption{
+    left: 9%;
+    right: 54%;
+    bottom: 40px;
+}
+.slaider-img{
+    width: 100%;
+    height: 460px;
+}
+.carousel-indicators li{
+    background: #009F95;
+}
+.carousel-indicators .active{
+    background: whitesmoke;
+}
+.btn-success {
+    background: #009F95;
+}
+
+/*menu socail icon*/
+.bl-2{
+    border-left: 2px solid #009F95;
+    height: 25px;
+}
+
+/*bar css*/
+.bar{
+    height: 4px;
+    width: 80px;
+    background: #00A399;
+    margin-bottom: 8px;
+    transition: .4s;
+}
+.bar:hover{
+    width: 150px;
+    background:red;
+}
+/*What we do*/
+.border-radius{
+    border-radius: 50%;
+}
+.overly-img:hover{
+    background-color: rgba(0,159,135,0.6);
+}
+
+/*footer css*/
+
+.bar-footer{
+    margin-left: 5px;
+    height: 2px;
+    width: 90px;
+    background: whitesmoke;
+    margin-bottom: 8px;
+}
+.bar-footer-l{
+    margin: 0px auto;
+    height: 1px;
+    width: 70%;
+    background: whitesmoke;
+}
+.text-titel{
+    color: #009F95;
+}
+/* Technology Partners*/
+
+.img-fluid{
+    max-width: 90%;
+    height: 180px;
+}
+.border-radius{
+    border-radius: 50%;
+}
+
+/*for scroll*/
+.scroll-top{
+    display:none;
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/*contact page*/
+
+.contact-title{
+    padding: 30px;
+    background-color: #CCE8FF;
+}
+
+.margin-top{
+    margin-top: 60px;
+}
+
+/*training page*/
+.trining-hover:hover {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.border-radius:40%
+
+.img-responsive{
+    height: 120px;
+    width: 70%;
+}
+
+.pl-150{
+    padding-left: 150px;
+}
